@@ -9,7 +9,8 @@ logging.basicConfig(level=logging.INFO)
 cities = {
     'москва': ['997614/b66c8567e69808cb9131', '1540737/38f83646fa9a2ec3c5c3'],
     'нью-йорк': ['13200873/6eb38c8a203620c9906a', '1030494/1b5a9781ac2ebb89a1cb'],
-    'париж': ["997614/44a8a3c5468bdbaf57ae", '1540737/efa192e49b1b9a9bc17c']
+    'париж': ["997614/44a8a3c5468bdbaf57ae", '1540737/efa192e49b1b9a9bc17c'],
+    'пекин': ['213044/77b9ef0fceec60579abf', '937455/cce0f92626ecbc17098c']
 }
 
 sessionStorage = {}
